@@ -44,7 +44,7 @@ export const Navbar = () => {
   return (
     <nav
       className="d-flex justify-content-between align-items-center px-4 py-3"
-      style={{ backgroundColor: "#FFB5CD", color: "white" }}
+      style={{ backgroundColor: "#2b00a1ff", color: "white" }}
     >
       <h4 className="m-0" style={{ fontWeight: "bold" }}>
         Mi App

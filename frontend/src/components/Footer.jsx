@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <footer
       style={{
-        backgroundColor: "#FFB5CD",
+        backgroundColor: "#2b00a1ff",
         color: "#fff",
         padding: "1rem",
         textAlign: "center",
@@ -14,7 +14,7 @@ export const Footer = () => {
         width: "100%",
       }}
     >
-      &copy; {year} Selena Britez. Todos los derechos reservados.
+      &copy; {year} Garcia Diego. Todos los derechos reservados.
     </footer>
   );
 };
